@@ -1,4 +1,4 @@
-name: Serve Flask App on Push
+name: Serve Flask App on Push 
 
 on:
   push:
